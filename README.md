@@ -9,7 +9,7 @@
 
 ### Primative data structure( integer, float, character, pointer, string) that can only hold or store one type of data;
 ### Non-primative data structure: linear and nonlinear
-* ### Linear( sequential type of data structure):
+* ### Linear( sequential type of data structure..):
 ###  Array:
 ### Classes and Objects
 ### Linked List:
