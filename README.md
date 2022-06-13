@@ -1,7 +1,7 @@
 # Data Structure and Algorithm: 
 
 ### Definition:
-* ### Data Structure:  a named location( way) to store and organize data so that it can be used efficiently(primative data structure and non-primative data structure)
+* ### Data Structure:  a named location(a way) to store and organize data so that it can be used efficiently(primative data structure and non-primative data structure)
 * ### Algorithm: the process or instruction(collection of steps) to solve a problem. A set of codes( inside a function ) to do something to the data( sort, arithmetic operations, display, search, backtracking, dynamic  programming...)
 ***
 
